@@ -1,0 +1,43 @@
+*{
+    font-family: 'Poppins',sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 40rem;
+    height: 20rem;
+    margin: 0 auto;
+    margin-top: 5rem;
+    height: 20rem;
+}
+.header {
+    height: 5rem;
+    background-color: rgb(16, 173, 173);
+}
+main {
+    border: 2px solid rgb(197, 190, 190);
+}
+div.main {
+    position: relative;
+    bottom: 2.5rem;
+    margin-left: 20px;
+}
+#image {
+    width: 15%;
+}
+#image2 {
+    position: relative;
+    top: 5px;
+    padding-right: 7px;
+    width: 2%;
+}
+#image3 {
+    position:relative; top: 5px;
+    width: 3%;
+    padding-right:5px ;
+}
+p {
+    font-weight: 500;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
